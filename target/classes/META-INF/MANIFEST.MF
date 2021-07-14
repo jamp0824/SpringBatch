@@ -1,11 +1,11 @@
 Manifest-Version: 1.0
+Built-By: june
+Build-Jdk: 16.0.1
 Implementation-Title: SpringBatch
 Implementation-Version: 0.0.1
-Built-By: HYOJU
 Implementation-Vendor-Id: com.javainuse
-Build-Jdk: 1.8.0_271
-Implementation-URL: http://projects.spring.io/spring-boot/springboot-b
- atch/
-Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-bat
+ ch/
+Created-By: Maven Integration for Eclipse
 
