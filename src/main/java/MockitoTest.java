@@ -7,7 +7,7 @@ public class MockitoTest {
         Product product = null;
         try{
             // Try to get value from cacheable method
-            product = productCacheDao.getProductLookUpData();
+            product = productCacheDao.getProductLookUpData(product);
             //statements
         } catch (Exception ex) {
             // getting value from db
